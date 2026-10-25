@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+*.sqlite3
+.streamlit/secrets.toml
+output/
+uploads/
+This is a Enriched C - 2026-10-25 11.03.md
+This is a Enriched C - 2026-10-25 15.31.md
